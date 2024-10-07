@@ -1,7 +1,7 @@
 # Mini Password Encryption Manager
 
 ## Overview
-A Windows Forms application developed in C# to manage and securely store user credentials such as website URLs, usernames, and passwords. Allows users to generate random passwords and save and load encrypted credentials. Doesn't work yet :/
+A Windows Forms application developed in C# to manage and securely store user credentials such as website URLs, usernames, and passwords. Allows users to generate random passwords and save and load encrypted credentials. ***Doesn't work yet!!!!!***
 ## Features
 - **Store and Retrieve Passwords**: Users can store and retrieve passwords for various websites.
 - **Random Password Generator**: Built-in functionality to generate secure random passwords.
