@@ -12,7 +12,7 @@ The **Simple Password Manager** is a Windows Forms application developed in C# t
 ## \\\\
 Here's a screenshot of the GUI interface:
 
-![Password Manager GUI](./pm_gui.png)
+![Password Manager GUI](SimplePasswordmanager/pm_gui.png)
 
 ## How to Use
 1. **Save Password**: Enter your website, username, and password, then click **Save Password** to store it securely.
